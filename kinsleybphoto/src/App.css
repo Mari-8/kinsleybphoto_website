@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+* {
+  margin: 0; 
+  padding: 0; 
+}
+
+.home-page {
+  height: 850px;
+  width: 100vw;
+}
+
+.jumbo-1 {
+  background-image: url('./pictures/background-beachnight.JPG');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 850px;
+  width: 100vw;
+}
+
+.footer {
+  background: black;
+  color:white;
+  height: 300px;
+  margin-top: 0px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
