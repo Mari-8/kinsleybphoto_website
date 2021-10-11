@@ -9,7 +9,7 @@ export default class HomePage extends Component {
         return (
             <Container fluid>
                 <figure className="test">
-                    {/* <ImageSlider />  */}
+                   
                     <MainPicture /> 
                     <Footer /> 
                 </figure>
