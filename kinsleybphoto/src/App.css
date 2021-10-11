@@ -63,9 +63,12 @@
  .footer {
   color:white;
   background-color: black;
-  text-align: center;
-  height: 300px;
+  max-height: 300px; 
   width: 100vw;
+}
+
+.footer-column {
+  max-height: 300px;
 }
 
 .col.social {
